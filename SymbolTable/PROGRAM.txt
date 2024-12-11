@@ -1,0 +1,21 @@
+PROGRAM Example;
+{
+    x = 10;
+    y = 20;
+    z = x + y;
+    WHILE ( z > 10) DO
+  
+    {
+        WRITE ( z );
+    }
+    IF ( x < y ) THEN
+    {
+        WRITE ( x );
+    }
+    ELSE
+    {
+        READ ( z );
+    }
+  
+}
+.

@@ -1,0 +1,17 @@
+PROGRAM Example;
+{
+    x = 10;
+    y = 20;
+    z = 30;
+  
+    WHILE ( z  + 1 >   y  ) DO 
+    {
+       WHILE ( x > 3 ) DO 
+	{
+           x = x - 5
+           
+       }
+       z = z - 30
+    }
+}
+.

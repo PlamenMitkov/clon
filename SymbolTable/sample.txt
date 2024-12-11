@@ -1,0 +1,21 @@
+PROGRAM Example;
+{
+  x = 10;
+  y = 20;
+  z = 6;
+  a = 5;       
+  c = 3;       
+  WHILE ( a + 10 < 20 - c ) DO
+  {
+    IF ( z > 30 ) THEN
+    {
+      WRITE ( z );
+    }
+    ELSE
+    {
+      WRITE ( x );
+    }
+  }
+
+}
+.

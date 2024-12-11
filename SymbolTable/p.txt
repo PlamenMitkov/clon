@@ -1,0 +1,10 @@
+PROGRAM Example;
+{
+    x = 10;
+    y = 20;
+    WHILE ( x - 4 < y - 9) DO 
+    {
+        x = x + 1
+    }
+}
+.
